@@ -28,6 +28,37 @@ button:focus {
 
 }
 
+.NavBar {
+    display: inline;
+    list-style: none;
+}
+
+li {
+    float: right;
+    padding: 12px;
+}
+
+
+a {
+    font-size: 13px;
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+    outline: 0;
+}
+
+.NavImg {
+    width: 27px;
+    height: 27px;
+    margin-top: 0px;
+}
+
+.NavMail {
+    width: 27px;
+    height: 27px;
+    margin-top: 0px;
+}
+
 #imgsearch {
     width: 17px;
     height: 17px;
